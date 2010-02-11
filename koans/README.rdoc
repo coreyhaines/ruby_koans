@@ -122,11 +122,7 @@ The Little Lisper ::  http://www.amazon.com/Little-LISPer-Third-Daniel-Friedman/
 == Other Resources
 
 The Ruby Language               ::  http://ruby-lang.org
-<<<<<<< HEAD
-Try Ruby in your browser        ::  http://tryruby.sophrinix.com
-=======
 Try Ruby in your browser        ::  http://tryruby.org
->>>>>>> 1d1ab85777e573fcb96f3dac671cfed0d76a52bb
 
 Dave Thomas' introduction to Ruby Programming Ruby (the Pick Axe) ::  http://pragprog.com/titles/ruby/programming-ruby
 
